@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on eichann&#39;s blog</title>
+    <link>/tags/ruby/</link>
+    <description>Recent content in Ruby on eichann&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 23 Dec 2015 13:47:25 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【WIP】ブラウザにHello Worldを出すにはどうすればよいか①</title>
+      <link>/post/4/</link>
+      <pubDate>Wed, 23 Dec 2015 13:47:25 +0900</pubDate>
+      
+      <guid>/post/4/</guid>
+      <description>要旨 ・Railsを利用せずに、ブラウザ上に&amp;rdquo;Hello Worldを出したい&amp;rdquo; ・前提知識が無さ過ぎるので、まずはそこを埋めることにした ・Webサーバ、アプリケーションサーバ、Rack、HTTP、これらについて書いていく</description>
+    </item>
+    
+  </channel>
+</rss>

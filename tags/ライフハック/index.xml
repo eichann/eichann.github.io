@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ライフハック on eichann&#39;s blog</title>
+    <link>/tags/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</link>
+    <description>Recent content in ライフハック on eichann&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 06 Dec 2015 13:47:25 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【WIP】【生産性アップ】ポモドーロ・テクニックで作業効率があがった</title>
+      <link>/post/3/</link>
+      <pubDate>Sun, 06 Dec 2015 13:47:25 +0900</pubDate>
+      
+      <guid>/post/3/</guid>
+      <description>ポモドーロって何？ 25分1つの作業に集中し、5分間休憩。これを1セットとし、4セットごとに30分の長い休憩を挟むという時間管理法です。なぜポモドーロというのかは知りませんがポモドーロとはトマトの意味だそうで。</description>
+    </item>
+    
+  </channel>
+</rss>
